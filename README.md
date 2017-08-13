@@ -1,4 +1,6 @@
 # Ruff Application
+a ruff project，displaying temperature and humidity with LCD
+
 ruff项目： 温湿度显示器
 
 ## 模块

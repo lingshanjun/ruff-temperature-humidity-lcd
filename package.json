@@ -1,8 +1,8 @@
 {
     "name": "lcd-ruff",
     "version": "0.1.0",
-    "description": "",
-    "author": "",
+    "description": "a ruff project，displaying temperature and humidity with LCD",
+    "author": "lwj",
     "main": "src/index.js",
     "ruff": {
         "dependencies": {
