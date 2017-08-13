@@ -12,6 +12,8 @@ ruff项目： 温湿度显示器
 读取温度和湿度，在液晶显示器上显示出来
 
 ## 效果
-![image](http://note.youdao.com/favicon.ico)
-![image](screenshot/screenshot1.png)
+![硬件连线图](screenshot/screenshot1.jpg)
+
+
+![显示图](screenshot/screenshot2.jpg)
 
