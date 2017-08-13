@@ -14,6 +14,4 @@ ruff项目： 温湿度显示器
 ## 效果
 ![硬件连线图](screenshot/screenshot1.jpg)
 
-
 ![显示图](screenshot/screenshot2.jpg)
-
